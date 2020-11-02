@@ -29,4 +29,4 @@ $_SESSION["userinfo"] = $user ->name;
 require_once('cloud/customer.php');
 ```
 
-
+3. work for superuser
