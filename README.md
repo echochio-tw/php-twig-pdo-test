@@ -1,5 +1,7 @@
 # php-twig-pdo-test
 
+![image](https://raw.githubusercontent.com/echochio-tw/php-twig-pdo-test/main/Customer_info.png)
+
 work with joomla in Jumi Application
 
 1. composer install
